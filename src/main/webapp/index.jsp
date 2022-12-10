@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
-    <lang = "es">
+<head>
+<html lang="es">
         <title>Fix code</title>
+    </head>
 <body>
 <h2>Correcion del codigo Java Web Sonarqube Fix</h2>
 <p>Este es un ejemplo de codigo Java Web Sonarqube Fix</p>
